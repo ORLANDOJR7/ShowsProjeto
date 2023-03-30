@@ -5,6 +5,7 @@ $local = $_POST["local"];
 $dataterni = $_POST["dataterni"];
 $datainic = $_POST["datainic"];
 $preco = $_POST["preco"];
+//modifica
 
 require_once "conecta.php"; 
 
